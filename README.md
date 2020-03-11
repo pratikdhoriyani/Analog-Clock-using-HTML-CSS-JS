@@ -1,2 +1,6 @@
 # Analog-Clock-using-HTML-CSS-JS
 Analog Clock using HTML, CSS &amp; JavaScript. Learn some JavaScript fundamentals by working with its functions, variable, Date object, timer &amp; accessing the page element with HTML &amp; CSS.
+
+# NOTE:
+Keep all three files in same folder or location...
+Open <b>index.html</b> file in any browser...
